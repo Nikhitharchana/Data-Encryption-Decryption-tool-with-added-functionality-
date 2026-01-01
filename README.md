@@ -83,7 +83,7 @@
  The Data Encryption and Decryption Tool is a cybersecurity project designed to protect sensitive files from unauthorized access and data leakage. It allows users to securely encrypt and decrypt files using a secret key, verify data integrity, and safely delete files to prevent recovery. With both graphical and command-line interfaces, the project demonstrates practical application of cryptographic principles and strengthens secure software development and security analysis skills.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/NIKHITHARCHANA-g13-cs-1/blob/9567b52c671669da4e8f000b7600456541b12f0b/Course%20report/Project%20Report%20-%20Group%208%20%20(3)%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Nikhitharchana/Data-Encryption-Decryption-tool-with-added-functionality-/blob/0b3a66450dd08dfefa3abb3d4a00bb77b8034e80/Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 >
