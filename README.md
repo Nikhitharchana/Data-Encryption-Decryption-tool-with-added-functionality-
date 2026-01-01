@@ -129,7 +129,7 @@ Experience  as it allowed me to directly support and help the community while un
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
+ <!-- remove this line -->
 
 <div align="center">
 <img <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/98f83e22-ecde-4374-be7d-0fcea9b9c6a0" alt="Community Service Photo 1" width="30%">
