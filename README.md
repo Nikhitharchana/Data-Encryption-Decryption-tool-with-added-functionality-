@@ -133,10 +133,10 @@ Experience  as it allowed me to directly support and help the community while un
 
 <div align="center">
 <img <img width="350" height="350" alt="image"  src="https://github.com/user-attachments/assets/c2f78146-f18e-4775-8e2c-9e6715aa4e01"alt="Community Service Photo 1" width="30%">
-<img <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/7995a8f9-34b2-444b-b401-94242d9d7731" alt="Community Service Photo 1" width="30%">
+<img <img width="350" height="350" alt="image"  src="https://github.com/user-attachments/assets/56b389e2-7b9c-46ff-8f3c-dcb791ef0e74" alt="Community Service Photo 1" width="30%">
 
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/61109c84-e4e0-4444-aea8-5fb8cb220fe7" alt="Community Service Photo 1" width="30%">
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5ca842ed-ed68-4837-8df3-4c279b937f69"  alt="Community Service Photo 1" width="30%">
 
 </div>
 
